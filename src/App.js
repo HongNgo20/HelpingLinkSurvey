@@ -3,7 +3,7 @@ import Tittle from "./components/Tittle";
 import './App.css'
 
 const Survey = () => {
-  const [answers, setAnswers] = useState();
+  
 
   const questions = [
     {
